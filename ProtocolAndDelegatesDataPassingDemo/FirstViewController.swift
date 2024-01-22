@@ -20,6 +20,7 @@ class FirstViewController: UIViewController, myDataSendingDelegateProtocol {
     
     func sendData(data: String) {
         self.nameLabel.text = data
+        self.nameLabel.backgroundColor = .systemGreen
     }
     
     @IBAction func getDataButton(_ sender: Any) {

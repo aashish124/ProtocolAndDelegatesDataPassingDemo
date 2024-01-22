@@ -18,9 +18,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" role="primary" translatesAutoresizingMaskIntoConstraints="NO" id="CqL-ci-ALW">
-                                <rect key="frame" x="50" y="638" width="293" height="60"/>
+                                <rect key="frame" x="50" y="643" width="293" height="55"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="60" id="slT-Sa-rAW"/>
+                                    <constraint firstAttribute="height" constant="55" id="YTU-KW-1yv"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Enter" titleAlignment="center">
@@ -84,12 +84,12 @@
                                 </connections>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Nw-WL-kmI">
-                                <rect key="frame" x="60" y="638" width="273" height="60"/>
+                                <rect key="frame" x="60" y="643" width="273" height="55"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="60" id="cll-Fm-d7n"/>
+                                    <constraint firstAttribute="height" constant="55" id="cll-Fm-d7n"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Go Back">
+                                <buttonConfiguration key="configuration" style="plain" title="Go Back" titleAlignment="center">
                                     <backgroundConfiguration key="background" cornerRadius="8">
                                         <color key="backgroundColor" systemColor="systemTealColor"/>
                                     </backgroundConfiguration>

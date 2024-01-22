@@ -23,6 +23,8 @@ class SecondViewController: UIViewController {
 
     @IBOutlet weak var textField: UITextField!
     
+    var cancelBarButton : UIButton!
+    
     @IBAction func goBackButton(_ sender: Any) {
         if self.delegate != nil && self.textField.text != nil {
             let dataToBeSent = textField.text
