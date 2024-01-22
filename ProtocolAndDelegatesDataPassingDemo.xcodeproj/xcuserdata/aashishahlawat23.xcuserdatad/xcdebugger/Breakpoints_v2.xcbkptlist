@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FFFBD97-291E-4D10-8D41-23AE4EBDE109"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "008CB901-137E-446B-8ED6-A8CD93552B34"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProtocolAndDelegatesDataPassingDemo/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getDataButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "008CB901-137E-446B-8ED6-A8CD93552B34 - c72481d9463a928c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProtocolAndDelegatesDataPassingDemo.FirstViewController.getDataButton(Any) -&gt; ()"
+                  moduleName = "ProtocolAndDelegatesDataPassingDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aashishahlawat23/Desktop/Swift%20Projects/ProtocolAndDelegatesDataPassingDemo/ProtocolAndDelegatesDataPassingDemo/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "008CB901-137E-446B-8ED6-A8CD93552B34 - c72481d9463a92ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProtocolAndDelegatesDataPassingDemo.FirstViewController.getDataButton(Any) -&gt; ()"
+                  moduleName = "ProtocolAndDelegatesDataPassingDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aashishahlawat23/Desktop/Swift%20Projects/ProtocolAndDelegatesDataPassingDemo/ProtocolAndDelegatesDataPassingDemo/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "008CB901-137E-446B-8ED6-A8CD93552B34 - c72481d9463a928c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProtocolAndDelegatesDataPassingDemo.FirstViewController.getDataButton(Any) -&gt; ()"
+                  moduleName = "ProtocolAndDelegatesDataPassingDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aashishahlawat23/Desktop/Swift%20Projects/ProtocolAndDelegatesDataPassingDemo/ProtocolAndDelegatesDataPassingDemo/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
